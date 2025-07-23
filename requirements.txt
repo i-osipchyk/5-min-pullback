@@ -1,0 +1,8 @@
+jupyter
+pandas-ta
+pandas
+yfinance
+mplfinance
+matplotlib
+seaborn
+finnhub-python

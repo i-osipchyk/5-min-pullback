@@ -6,3 +6,6 @@ mplfinance
 matplotlib
 seaborn
 finnhub-python
+gspread
+gspread_dataframe
+oauth2client
